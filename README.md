@@ -92,7 +92,5 @@ Feel free to modify and experiment with the code to adapt it to your own dataset
 
 ---
 
-Feel free to expand on this README to include more details specific to your project or dataset. Markdown is a versatile format that allows you to create clear and structured documentation for your projects.
-
 
 
